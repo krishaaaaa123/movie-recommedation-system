@@ -1,2 +1,2 @@
 # movie-recommedation-system
-a movie recommendation system created using python
+A movie recommendation system created using python. It suggests about its plot and so on. :slightly_smiling_face: :movie_camera: 
